@@ -1,2 +1,14 @@
 # zhibo8-8-resource
-HTML page archive and documentation
+
+公开页面文件归档
+
+这里收集多个独立页面，方便在同一个仓库中管理。
+
+## 页面文件
+
+- 每个 HTML 文件可独立访问
+- 文件名称由发布任务生成
+
+## 公开访问
+
+公开访问状态取决于仓库权限、Pages 配置和 GitHub 同步状态。
